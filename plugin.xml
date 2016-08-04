@@ -15,6 +15,9 @@
       <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
         <array>
           <string>uber</string>
+          <string>uberpartner</string>
+          <string>uberrouting</string>
+          <string>wx6614797c8c804ba4</string>
           <string>lyft</string>
           <string>car2go</string>
           <string>passport</string>

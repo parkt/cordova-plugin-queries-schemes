@@ -33,6 +33,9 @@
           <string>paypal</string>
           <string>fb</string>
           <string>twitter</string>
+          <string>lyftdriver</string>
+          <string>spothero</string>
+          <string>com.relayrides.ios.RelayRides</string>
           <string>gplus</string>
           <string>pintrest</string>
           <string>instagram</string>
